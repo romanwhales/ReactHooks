@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React Hooks - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), and it basically shows you the major features/apis of react hooks... 
 
 ## Available Scripts
 
